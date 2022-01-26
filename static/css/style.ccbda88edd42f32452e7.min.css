@@ -10661,64 +10661,64 @@
 
 @font-face {
     font-family: NeueHaasGrotesk;
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-15UltTh.eot");
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-15UltTh.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-15UltTh.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-15UltTh.woff") format("woff"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-15UltTh.ttf") format("truetype");
+    src: url("../static/fonts/NHaasGroteskDSPro-15UltTh.eot");
+    src: url("../static/fonts/NHaasGroteskDSPro-15UltTh.eot?#iefix") format("embedded-opentype"), url("../static/fonts/NHaasGroteskDSPro-15UltTh.woff2") format("woff2"), url("../static/fonts/NHaasGroteskDSPro-15UltTh.woff") format("woff"), url("../static/fonts/NHaasGroteskDSPro-15UltTh.ttf") format("truetype");
     font-weight: 100;
     font-style: normal
 }
 
 @font-face {
     font-family: NeueHaasGrotesk;
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-25Th.eot");
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-25Th.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-25Th.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-25Th.woff") format("woff"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-25Th.ttf") format("truetype");
+    src: url("../static/fonts/NHaasGroteskDSPro-25Th.eot");
+    src: url("../static/fonts/NHaasGroteskDSPro-25Th.eot?#iefix") format("embedded-opentype"), url("../static/fonts/NHaasGroteskDSPro-25Th.woff2") format("woff2"), url("../static/fonts/NHaasGroteskDSPro-25Th.woff") format("woff"), url("../static/fonts/NHaasGroteskDSPro-25Th.ttf") format("truetype");
     font-weight: 200;
     font-style: normal
 }
 
 @font-face {
     font-family: NeueHaasGrotesk;
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-35XLt.eot");
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-35XLt.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-35XLt.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-35XLt.woff") format("woff"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-35XLt.ttf") format("truetype");
+    src: url("../static/fonts/NHaasGroteskDSPro-35XLt.eot");
+    src: url("../static/fonts/NHaasGroteskDSPro-35XLt.eot?#iefix") format("embedded-opentype"), url("../static/fonts/NHaasGroteskDSPro-35XLt.woff2") format("woff2"), url("../static/fonts/NHaasGroteskDSPro-35XLt.woff") format("woff"), url("../static/fonts/NHaasGroteskDSPro-35XLt.ttf") format("truetype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: NeueHaasGrotesk;
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-45Lt.eot");
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-45Lt.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-45Lt.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-45Lt.woff") format("woff"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-45Lt.ttf") format("truetype");
+    src: url("../static/fonts/NHaasGroteskDSPro-45Lt.eot");
+    src: url("../static/fonts/NHaasGroteskDSPro-45Lt.eot?#iefix") format("embedded-opentype"), url("../static/fonts/NHaasGroteskDSPro-45Lt.woff2") format("woff2"), url("../static/fonts/NHaasGroteskDSPro-45Lt.woff") format("woff"), url("../static/fonts/NHaasGroteskDSPro-45Lt.ttf") format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: NeueHaasGrotesk;
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-55Rg.eot");
-    src: url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-55Rg.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-55Rg.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-55Rg.woff") format("woff"), url("https://static.red-company.nl/static/fonts/NHaasGroteskDSPro-55Rg.ttf") format("truetype");
+    src: url("../static/fonts/NHaasGroteskDSPro-55Rg.eot");
+    src: url("../static/fonts/NHaasGroteskDSPro-55Rg.eot?#iefix") format("embedded-opentype"), url("../static/fonts/NHaasGroteskDSPro-55Rg.woff2") format("woff2"), url("../static/fonts/NHaasGroteskDSPro-55Rg.woff") format("woff"), url("../static/fonts/NHaasGroteskDSPro-55Rg.ttf") format("truetype");
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: FreightNeo;
-    src: url("https://static.red-company.nl/static/fonts/FreightNeoPro-Light.eot");
-    src: url("https://static.red-company.nl/static/fonts/FreightNeoPro-Light.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Light.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Light.woff") format("woff"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Light.ttf") format("truetype");
+    src: url("../static/fonts/FreightNeoPro-Light.eot");
+    src: url("../static/fonts/FreightNeoPro-Light.eot?#iefix") format("embedded-opentype"), url("../static/fonts/FreightNeoPro-Light.woff2") format("woff2"), url("../static/fonts/FreightNeoPro-Light.woff") format("woff"), url("../static/fonts/FreightNeoPro-Light.ttf") format("truetype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: FreightNeo;
-    src: url("https://static.red-company.nl/static/fonts/FreightNeoPro-Book.eot");
-    src: url("https://static.red-company.nl/static/fonts/FreightNeoPro-Book.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Book.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Book.woff") format("woff"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Book.ttf") format("truetype");
+    src: url("../static/fonts/FreightNeoPro-Book.eot");
+    src: url("../static/fonts/FreightNeoPro-Book.eot?#iefix") format("embedded-opentype"), url("../static/fonts/FreightNeoPro-Book.woff2") format("woff2"), url("../static/fonts/FreightNeoPro-Book.woff") format("woff"), url("../static/fonts/FreightNeoPro-Book.ttf") format("truetype");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: FreightNeo;
-    src: url("https://static.red-company.nl/static/fonts/FreightNeoPro-Medium.eot");
-    src: url("https://static.red-company.nl/static/fonts/FreightNeoPro-Medium.eot?#iefix") format("embedded-opentype"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Medium.woff2") format("woff2"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Medium.woff") format("woff"), url("https://static.red-company.nl/static/fonts/FreightNeoPro-Medium.ttf") format("truetype");
+    src: url("../static/fonts/FreightNeoPro-Medium.eot");
+    src: url("../static/fonts/FreightNeoPro-Medium.eot?#iefix") format("embedded-opentype"), url("../static/fonts/FreightNeoPro-Medium.woff2") format("woff2"), url("../static/fonts/FreightNeoPro-Medium.woff") format("woff"), url("../static/fonts/FreightNeoPro-Medium.ttf") format("truetype");
     font-weight: 500;
     font-style: normal
 }
