@@ -1,0 +1,79 @@
+.bia_preloader {
+  cursor: progress;
+  position: fixed;
+  z-index: 13;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+}
+
+.bia_background {
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  -webkit-transition: opacity 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: opacity 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: opacity 1.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.bia_background.animateOut {
+  opacity: 0;
+}
+
+.bia_logo {
+  position: absolute;
+  top: calc(50% - 6vw);
+  left: calc(50% - 6vw);
+  width: 12vw;
+  max-width: 60px;
+  opacity: 0;
+  -webkit-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  transform: scale(0.9);
+  -webkit-transition: opacity 0.9s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    -webkit-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: opacity 0.9s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    -webkit-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  -o-transition: opacity 0.9s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    -o-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    opacity 0.9s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    opacity 0.9s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    -webkit-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+    -o-transform 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+@media only screen and (min-width: 768px) {
+  .bia_logo {
+    top: calc(50% - 3vw);
+    left: calc(50% - 3vw);
+    width: 6vw;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .bia_logo {
+    top: calc(50% - 2vw);
+    left: calc(50% - 2vw);
+    width: 4vw;
+  }
+}
+
+.bia_logo path {
+  fill: #252525;
+  fill-rule: evenodd;
+}
+
+.bia_logo.visible {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1);
+}
+
+.hidden {
+  opacity: 0;
+}
