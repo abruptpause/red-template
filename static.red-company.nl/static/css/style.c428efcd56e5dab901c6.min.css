@@ -6476,6 +6476,8 @@
 
 .tKK8fv {
   padding: 14vw 14vw 7vw;
+  /* (hidden) */
+  display: none;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -8046,6 +8048,9 @@
 
 ._3kLyUB {
   padding: 24vw 12vw 10vw;
+
+  /* (hidden) */
+  display: none;
 }
 
 @media only screen and (min-width: 1024px) {
