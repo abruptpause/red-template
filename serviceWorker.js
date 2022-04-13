@@ -3,11 +3,11 @@
   // webpackBootstrap
   /******/ // The module cache
   /******/
-  var installedModules = {}
+  const installedModules = {}
   /******/
   /******/ // The require function
   /******/
-  function __webpack_require__(moduleId) {
+  function __webpack_require__ (moduleId) {
     /******/
     /******/ // Check if module is in cache
     /******/
@@ -18,7 +18,7 @@
     }
     /******/ // Create a new module (and put it into the cache)
     /******/
-    var module = (installedModules[moduleId] = {
+    const module = (installedModules[moduleId] = {
       /******/
       i: moduleId,
       /******/
@@ -98,7 +98,7 @@
     /******/
     if (mode & 4 && typeof value === 'object' && value && value.__esModule) return value
     /******/
-    var ns = Object.create(null)
+    const ns = Object.create(null)
     /******/
     __webpack_require__.r(ns)
     /******/
@@ -107,8 +107,8 @@
       value: value
     })
     /******/
-    if (mode & 2 && typeof value != 'string')
-      for (var key in value)
+    if (mode & 2 && typeof value !== 'string') {
+      for (const key in value) {
         __webpack_require__.d(
           ns,
           key,
@@ -116,6 +116,8 @@
             return value[key]
           }.bind(null, key)
         )
+      }
+    }
     /******/
     return ns
     /******/
@@ -125,16 +127,16 @@
   /******/
   __webpack_require__.n = function (module) {
     /******/
-    var getter =
+    const getter =
       module && module.__esModule
         ? /******/
-          function getDefault() {
-            return module['default']
-          }
+        function getDefault () {
+          return module.default
+        }
         : /******/
-          function getModuleExports() {
-            return module
-          }
+        function getModuleExports () {
+          return module
+        }
     /******/
     __webpack_require__.d(getter, 'a', getter)
     /******/
@@ -163,7 +165,7 @@
   {
     /***/
     './src/service-worker.js':
-      /*!*******************************!*\
+      /*! *******************************!*\
           !*** ./src/service-worker.js ***!
           \*******************************/
       /*! no static exports found */

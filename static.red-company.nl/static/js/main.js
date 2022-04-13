@@ -57,8 +57,8 @@
     const t =
         e && e.__esModule
           ? function () {
-              return e.default
-            }
+            return e.default
+          }
           : function () {
             return e
           }
