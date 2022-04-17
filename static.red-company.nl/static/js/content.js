@@ -1143,7 +1143,7 @@ window.__PRELOADED_STATE__ = {
         type: 'socials',
         title: {
           rendered:
-            'Byldis has started assembling the prefab elements of the new office building for Janssen'
+            '[(CONTENT.JS) NEWS ARTICLE 1]'
         },
         content: {
           rendered: '',
@@ -1209,7 +1209,7 @@ window.__PRELOADED_STATE__ = {
           },
           text: '',
           user: {
-            username: 'Kick',
+            username: '[(CONTENT.JS) AUTHOR 1]',
             avatar: {
               ID: 815,
               id: 815,
@@ -1282,7 +1282,7 @@ window.__PRELOADED_STATE__ = {
         slug: 'construction-continue-at-leiden-bio-science-park',
         type: 'socials',
         title: {
-          rendered: 'Construction continue at Leiden Bio Science Park.'
+          rendered: '[(CONTENT.JS) NEWS ARTICLE 2]'
         },
         content: {
           rendered: '',
@@ -1348,7 +1348,7 @@ window.__PRELOADED_STATE__ = {
           },
           text: '',
           user: {
-            username: 'Kick',
+            username: '[(CONTENT.JS) AUTHOR 2]',
             avatar: {
               ID: 815,
               id: 815,
@@ -1421,7 +1421,8 @@ window.__PRELOADED_STATE__ = {
         slug: 'foundation-works-at-leiden-bio-science-park-are-ongoing',
         type: 'socials',
         title: {
-          rendered: 'Foundation works at Leiden Bio Science Park are ongoing!'
+          // rendered: 'Foundation works at Leiden Bio Science Park are ongoing!'
+          rendered: '[(CONTENT.JS) NEWS ARTICLE 3]'
         },
         content: {
           rendered: '',
@@ -1487,7 +1488,7 @@ window.__PRELOADED_STATE__ = {
             }
           },
           user: {
-            username: 'Pim',
+            username: '[(CONTENT.JS) AUTHOR 3]',
             avatar: {
               ID: 989,
               id: 989,
