@@ -2363,7 +2363,7 @@ window.__PRELOADED_STATE__ = {
             }
           },
           hit_count: '1583',
-          title: 'A Future-Proof Workplace',
+          title: 'A Future-Proof Workplace TITLE',
           subtitle: 'Danone HQ',
           excerpt:
             'Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.',
@@ -2372,7 +2372,7 @@ window.__PRELOADED_STATE__ = {
               {
                 acf_fc_layout: 'intro',
                 intro: {
-                  headline: 'A Future-Proof Workplace',
+                  headline: 'A Future-Proof Workplace HEADLINE',
                   summary:
                     '\u003cp>Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.\u003c/p>\n',
                   hero_image: {
@@ -2981,7 +2981,7 @@ window.__PRELOADED_STATE__ = {
                 acf_fc_layout: 'text',
                 text: {
                   headline: 'HEALTHILY SUSTAINABLE',
-                  text: '\u003cp>For us, ‘sustainable’ means that the building should minimize its impact on the environment while also creating a truly healthy workplace for employees. Our ambitions in both these areas are high, and the world’s most recognized certifications in these fields – WELL (health and wellbeing) and LEED (sustainability) are our aim.\u003c/p>\n'
+                  text: '\u003cp>For us, ‘sustainable’ means that the building should minimize its impact on the environment while also creating a truly healthy workplace TEXT TEXT for employees. Our ambitions in both these areas are high, and the world’s most recognized certifications in these fields – WELL (health and wellbeing) and LEED (sustainability) are our aim.\u003c/p>\n'
                 }
               },
               {
