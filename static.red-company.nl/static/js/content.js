@@ -1024,12 +1024,12 @@ window.__PRELOADED_STATE__ = {
             }
           ],
           titles: {
-            title: 'level up\u003cbr />\r\nreal estate',
-            subtitle: 'About us'
+            title: 'SECTION 2\u003cbr />\r\nHEADER',
+            subtitle: 'SECTION 2 CAPTION'
           },
-          summary: 'A dedicated team of real estate development professionals',
+          summary: 'SECTION 2 SUMMARY CONTENT.',
           excerpt: {
-            text: '\u003cp>RED Company was founded by Niels Jansen and Nanne de Ru in 2015. It all started with a single objective: creating next-level real estate of the highest possible quality. We are proud to say that, only a few years later, we have achieved our goal. Our projects have already made their mark, showing that we are a breath of fresh air in the real-estate world. We are young, ambitious, enthusiastic and adventurous, always on the lookout for innovative, design-driven and sustainable real-estate concepts. Every member of our RED team is keen to make a positive impact through the single-minded pursuit of quality and enhanced value.\u003c/p>\n'
+            text: '\u003cp>SECTION 2 PARAGRAPH CONTENT.\u003c/p>\n'
           }
         },
         _bia_stripped: true
