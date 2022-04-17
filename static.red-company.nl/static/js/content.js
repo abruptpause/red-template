@@ -2363,7 +2363,7 @@ window.__PRELOADED_STATE__ = {
             }
           },
           hit_count: '1583',
-          title: 'A Future-Proof Workplace TITLE',
+          title: '[(CONTENT.JS) PROJECT TITLE 1',
           subtitle: 'Danone HQ',
           excerpt:
             'Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.',
@@ -2372,7 +2372,7 @@ window.__PRELOADED_STATE__ = {
               {
                 acf_fc_layout: 'intro',
                 intro: {
-                  headline: 'A Future-Proof Workplace HEADLINE',
+                  headline: '[(CONTENT.JS) PROJECT HEADLINE 1]',
                   summary:
                     '\u003cp>Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.\u003c/p>\n',
                   hero_image: {
