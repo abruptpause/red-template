@@ -2366,7 +2366,8 @@ window.__PRELOADED_STATE__ = {
           title: '[(CONTENT.JS) PROJECT TITLE 1',
           subtitle: 'Danone HQ',
           excerpt:
-            'Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.',
+            `\u003cp>Even when a piece is finished\u003c/p>\u003cp>(which only means I've stopped working on it),\u003c/p> \u003cp>what has been of interest to me has more to do with the process or evolution than the product.\u003c/p>`,
+            // '[(CONTENT.JS) PROJECT DESCRIPTION 1]',
           content: {
             content: [
               {
@@ -2374,7 +2375,7 @@ window.__PRELOADED_STATE__ = {
                 intro: {
                   headline: '[(CONTENT.JS) PROJECT HEADLINE 1]',
                   summary:
-                    '\u003cp>Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.\u003c/p>\n',
+                    '\u003cp> AHAHAHA Our new office for Danone has a minimized carbon footprint, offers a healthy working environment and encourages knowledge exchange on all levels.\u003c/p>\n',
                   hero_image: {
                     ID: 637,
                     id: 637,
