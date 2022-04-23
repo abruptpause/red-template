@@ -3372,7 +3372,8 @@ window.__PRELOADED_STATE__ = {
         },
         site_description:
           'Real estate development professionals focussed on pushing the highest level of quality in sustainability and design.',
-        site_name: 'REDC',
+        // WEBSITE <TITLE />
+        site_name: 'Abrupt Pause',
         site_image: {
           ID: 825,
           id: 825,
