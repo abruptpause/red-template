@@ -1040,7 +1040,12 @@ window.__PRELOADED_STATE__ = {
       }
     ]
   },
+
+
+
   casesData: {
+
+    /*
     projects: [
       {
         term_id: 48,
@@ -1139,13 +1144,14 @@ window.__PRELOADED_STATE__ = {
         filter: 'raw'
       }
     ],
+    */
 
     // [RIGHT DRAG OUT SECTION CONTENT]
     socials: [
       {
-        id: 1063,
-        date: '2022-03-22T13:23:32',
-        slug: 'byldis-has-started-assembling-the-prefab-elements-of-the-new-office-building-for-janssen',
+        // id: 1063,
+        // date: '2022-03-22T13:23:32',
+        // slug: 'byldis-has-started-assembling-the-prefab-elements-of-the-new-office-building-for-janssen',
         type: 'socials',
         title: {
           rendered:
@@ -1155,33 +1161,43 @@ window.__PRELOADED_STATE__ = {
           rendered: '',
           protected: false
         },
-        social_projects: [48],
+        // social_projects: [48],
         acf: {
           content_selection: 'image',
+
+          // [RIGHT DRAG OUT SECTION IMAGE]
           post_image: {
-            ID: 1062,
-            id: 1062,
-            title: 'IMG_2375',
-            filename: 'IMG_2375.jpg',
-            filesize: 2679885,
-            url: '../static.red-company.nl/wp-content/uploads/2022/03/22125626/IMG_2375.jpg',
-            link: 'http://admin.red-company.nl/?attachment_id=1062',
-            alt: '',
-            author: '5',
-            description: '',
-            caption: '',
-            name: 'img_2375',
-            status: 'inherit',
-            uploaded_to: 1061,
-            date: '2022-03-22 10:56:19',
-            modified: '2022-03-22 10:56:19',
-            menu_order: 0,
-            mime_type: 'image/jpeg',
-            type: 'image',
-            subtype: 'jpeg',
-            icon: 'http://admin.red-company.nl/wp-includes/images/media/default.png',
-            width: 4032,
-            height: 3024,
+            // ID: 1062,
+            // id: 1062,
+            // title: 'IMG_2375',
+            // filename: 'IMG_2375.jpg',
+            // filesize: 2679885,
+            // url: '../static.red-company.nl/wp-content/uploads/2022/03/22125626/IMG_2375.jpg',
+            // link: 'http://admin.red-company.nl/?attachment_id=1062',
+            // alt: '',
+            // author: '5',
+            // description: '',
+            // caption: '',
+            // name: 'img_2375',
+            // status: 'inherit',
+            // uploaded_to: 1061,
+            // date: '2022-03-22 10:56:19',
+            // modified: '2022-03-22 10:56:19',
+            // menu_order: 0,
+            // mime_type: 'image/jpeg',
+            // type: 'image',
+            // subtype: 'jpeg',
+            // icon: 'http://admin.red-company.nl/wp-includes/images/media/default.png',
+            // width: 4032,
+            // height: 3024,
+
+            sizes: {
+              default: '../static.red-company.nl/wp-content/uploads/2022/03/22125626/IMG_2375-768x576.jpg',
+              'default-width': 768,
+              'default-height': 576,
+            }
+
+            /*
             sizes: {
               thumbnail:
                 '../static.red-company.nl/wp-content/uploads/2022/03/22125626/IMG_2375-150x150.jpg',
@@ -1212,8 +1228,9 @@ window.__PRELOADED_STATE__ = {
               'ludicrous-width': 2440,
               'ludicrous-height': 1830
             }
+            */
           },
-          text: '',
+          // text: '',
           user: {
             username: '[(CONTENT.JS) AUTHOR 1]',
             /*
@@ -1274,15 +1291,15 @@ window.__PRELOADED_STATE__ = {
             }
             */
           },
-          external_link: {
-            link: '',
-            image: false
-          }
+          // external_link: {
+            // link: '',
+            // image: false
+          // }
         },
-        dsgnwrks_instagram_likes: '',
-        dsgnwrks_instagram_comments: '',
-        instagram_created_time: '',
-        instagram_user: ''
+        // dsgnwrks_instagram_likes: '',
+        // dsgnwrks_instagram_comments: '',
+        // instagram_created_time: '',
+        // instagram_user: ''
       }
     ],
     cases: [
