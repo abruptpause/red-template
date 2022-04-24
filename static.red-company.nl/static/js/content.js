@@ -1155,7 +1155,7 @@ window.__PRELOADED_STATE__ = {
         type: 'socials',
         title: {
           rendered:
-            '[(CONTENT.JS) NEWS ARTICLE 1]'
+            'RIGHT DRAG OUT HEADER]'
         },
         content: {
           rendered: '',
@@ -1232,7 +1232,7 @@ window.__PRELOADED_STATE__ = {
           },
           // text: '',
           user: {
-            username: '[(CONTENT.JS) AUTHOR 1]',
+            username: '[RIGHT DRAG OUT SUBHEADER]',
             /*
             avatar: {
               ID: 815,
@@ -2266,15 +2266,16 @@ window.__PRELOADED_STATE__ = {
   optionsData: {
     config: {
       acf: {
-        phone: '+31(0)10 303 75 33',
-        email: 'contact@red-company.nl',
-        streetname_number: 'Antoine Platekade 1000',
-        postal_code: '3072 ME',
-        city: 'Rotterdam',
+        // phone: '+31(0)10 303 75 33',
+        // email: 'contact@red-company.nl',
+        // streetname_number: 'Antoine Platekade 1000',
+        // postal_code: '3072 ME',
+        // city: 'Rotterdam',
         country: {
-          NL: 'Netherlands'
+            // NL: 'Netherlands'
+            '': ''
         },
-        google_maps_link: '',
+        // google_maps_link: '',
 
         // [IMAGE SCHEMA EXAMPLE]
         /*
@@ -2336,7 +2337,7 @@ window.__PRELOADED_STATE__ = {
         */
         //
 
-        meet_us_text: 'Want to meet us in person?',
+        meet_us_text: '[WANT TO MEET US IN PERSON?]',
         socials: [
           {
             type: 'instagram',
@@ -2347,8 +2348,8 @@ window.__PRELOADED_STATE__ = {
             url: 'https://nl.linkedin.com/company/real-estate-development-company'
           }
         ],
-        email_subscribe_greeting: 'Share your e-mail with us and join our inner circle!',
-        email_subscribe_confirmation: 'Thank you for signing up!',
+        email_subscribe_greeting: '[SHARE YOUR EMAIL]',
+        email_subscribe_confirmation: '[THANK YOU FOR SHARING EMAIL]',
         /*
         social_image: {
           ID: 815,
@@ -2407,7 +2408,7 @@ window.__PRELOADED_STATE__ = {
         },
         */
         site_description:
-          'Real estate development professionals focussed on pushing the highest level of quality in sustainability and design.',
+          'THIS IS THE SITE DESCRIPTION',
         // [SITE <TITLE /> TAG]
         site_name: 'Abrupt Pause',
         site_image: {
