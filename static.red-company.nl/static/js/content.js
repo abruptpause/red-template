@@ -62,6 +62,7 @@ window.__PRELOADED_STATE__ = {
               filter: 'raw'
             }
           },
+          /*
           all_cases_image: {
             ID: 815,
             id: 815,
@@ -117,6 +118,7 @@ window.__PRELOADED_STATE__ = {
               'ludicrous-height': 2000
             }
           }
+          */
         }
       },
       {
@@ -638,6 +640,7 @@ window.__PRELOADED_STATE__ = {
                 bio: 'Dirk Jan is a developer with a background in both engineering and architecture. This enables him to oversee the development process from initiation until completion.'
               }
             },
+            /*
             {
               image: {
                 ID: 815,
@@ -702,6 +705,7 @@ window.__PRELOADED_STATE__ = {
                 bio: 'Kick is a commercially driven developer. He is mainly responsible for acquiring and developing projects on inner-city locations.'
               }
             },
+            */
             {
               image: {
                 ID: 812,
@@ -1210,6 +1214,7 @@ window.__PRELOADED_STATE__ = {
           text: '',
           user: {
             username: '[(CONTENT.JS) AUTHOR 1]',
+            /*
             avatar: {
               ID: 815,
               id: 815,
@@ -1265,6 +1270,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 2000
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -1349,7 +1355,8 @@ window.__PRELOADED_STATE__ = {
           text: '',
           user: {
             username: '[(CONTENT.JS) AUTHOR 2]',
-            avatar: {
+            /*
+              avatar: {
               ID: 815,
               id: 815,
               title: 'REDC-Team-KICK-FROHWEIN-',
@@ -1404,6 +1411,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 2000
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -1489,6 +1497,7 @@ window.__PRELOADED_STATE__ = {
           },
           user: {
             username: '[(CONTENT.JS) AUTHOR 3]',
+            /*
             avatar: {
               ID: 989,
               id: 989,
@@ -1544,6 +1553,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 1627
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -1628,6 +1638,7 @@ window.__PRELOADED_STATE__ = {
           },
           user: {
             username: 'Gijsbert ',
+            /*
             avatar: {
               ID: 812,
               id: 812,
@@ -1683,6 +1694,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 2000
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -1767,6 +1779,7 @@ window.__PRELOADED_STATE__ = {
           },
           user: {
             username: 'Kick',
+            /*
             avatar: {
               ID: 815,
               id: 815,
@@ -1822,6 +1835,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 2000
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -2078,6 +2092,7 @@ window.__PRELOADED_STATE__ = {
           text: 'The construction of the Bunker Tower in Dutch winter is a real sight to see!',
           user: {
             username: 'Gijs',
+            /*
             avatar: {
               ID: 812,
               id: 812,
@@ -2133,6 +2148,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 2000
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -2217,6 +2233,7 @@ window.__PRELOADED_STATE__ = {
           text: 'The wooden facade is just as beautiful in the dark',
           user: {
             username: 'Dirk Jan',
+            /*
             avatar: {
               ID: 867,
               id: 867,
@@ -2272,6 +2289,7 @@ window.__PRELOADED_STATE__ = {
                 'ludicrous-height': 2281
               }
             }
+            */
           },
           external_link: {
             link: '',
@@ -2290,6 +2308,7 @@ window.__PRELOADED_STATE__ = {
         date: '2019-04-15T17:26:58',
         slug: 'danone-hq',
         type: 'cases',
+        // [HEADER TITLE]
         title: {
           rendered: 'abrupt pause'
           // "rendered": "john ivy title 1"
@@ -2367,7 +2386,8 @@ window.__PRELOADED_STATE__ = {
           subtitle: 'Danone HQ',
           excerpt:
             `\u003cp>Even when a piece is finished\u003c/p>\u003cp>(which only means I've stopped working on it),\u003c/p> \u003cp>what has been of interest to me has more to do with the process or evolution than the product.\u003c/p>`,
-            // '[(CONTENT.JS) PROJECT DESCRIPTION 1]',
+
+          // '[(CONTENT.JS) PROJECT DESCRIPTION 1]',
           content: {
             content: [
               {
@@ -3163,6 +3183,8 @@ window.__PRELOADED_STATE__ = {
   },
   menuData: {
     menus: [
+      // [ABOUT MENU]
+      /*
       {
         term_id: 31,
         name: 'About Menu',
@@ -3201,6 +3223,9 @@ window.__PRELOADED_STATE__ = {
           }
         ]
       },
+      */
+      // [SIDEBAR MENU]
+      /*
       {
         term_id: 2,
         name: 'Main menu',
@@ -3210,7 +3235,8 @@ window.__PRELOADED_STATE__ = {
         taxonomy: 'nav_menu',
         description: '',
         parent: 0,
-        count: 3,
+        // count: 3,
+        count: 0,
         filter: 'raw',
         items: [
           {
@@ -3230,11 +3256,13 @@ window.__PRELOADED_STATE__ = {
             title: 'Contact',
             url: '/contact',
             acf: false
-          }
         ]
       }
+      */
     ]
   },
+
+  // [SITE/CONTACT INFO]
   optionsData: {
     config: {
       acf: {
@@ -3247,6 +3275,9 @@ window.__PRELOADED_STATE__ = {
           NL: 'Netherlands'
         },
         google_maps_link: '',
+
+        // [IMAGE SCHEMA EXAMPLE]
+        /*
         meet_us_image: {
           ID: 815,
           id: 815,
@@ -3302,6 +3333,9 @@ window.__PRELOADED_STATE__ = {
             'ludicrous-height': 2000
           }
         },
+        */
+        //
+
         meet_us_text: 'Want to meet us in person?',
         socials: [
           {
@@ -3315,6 +3349,7 @@ window.__PRELOADED_STATE__ = {
         ],
         email_subscribe_greeting: 'Share your e-mail with us and join our inner circle!',
         email_subscribe_confirmation: 'Thank you for signing up!',
+        /*
         social_image: {
           ID: 815,
           id: 815,
@@ -3370,9 +3405,10 @@ window.__PRELOADED_STATE__ = {
             'ludicrous-height': 2000
           }
         },
+        */
         site_description:
           'Real estate development professionals focussed on pushing the highest level of quality in sustainability and design.',
-        // WEBSITE <TITLE />
+        // [SITE <TITLE /> TAG]
         site_name: 'Abrupt Pause',
         site_image: {
           ID: 825,

@@ -4,6 +4,7 @@
   "description": "",
   "main": "serviceWorker.js",
   "scripts": {
+    "serve": "ns && serve .",
     "lint": "eslint --fix ."
   },
   "repository": {
